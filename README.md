@@ -7,5 +7,5 @@ USO:
 Ubicar el archivo python-image-resizer.py en el mismo directorio donde están las imágenes que deseamos redimensionar y desde esa ubicación ejecutarlo.
 El mismo nos pedirá los datos que necesita para redimensionar las imágenes y al final nos pregunta si deseamos comprimirlas.
 
-REQUISITOS
+REQUISITOS:
 Se necesitan los módulos PIL, fnmatch y tarfile para ejecutar el archivo de Python.
